@@ -1,0 +1,9 @@
+
+POST http://localhost:8080/employees/process
+Content-Type: application/json
+
+{
+  "id": 101,
+  "name": "Gowsika",
+  "department": "Artificial Intelligence"
+}
